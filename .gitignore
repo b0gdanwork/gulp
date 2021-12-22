@@ -1,0 +1,14 @@
+/dist
+/public
+/module/Application/assets
+/module/Application/*.html
+_public/*
+_module/Application/assets/*
+temp
+node_modules
+.idea
+_psd/*
+_resources/*
+_test/*
+.db
+.DS_Store
