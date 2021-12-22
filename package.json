@@ -1,12 +1,12 @@
 {
-  "name": "fls-bogdanwork",
+  "name": "gulp-bogdan",
   "version": "1.0.0",
   "description": "Сборка Gulp",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "gulp"
   },
-  "author": "Bogdan",
+  "author": "b0gdanwork@yandex.ru",
   "license": "ISC",
   "devDependencies": {
     "browser": "^0.2.6",
@@ -31,10 +31,9 @@
     "node-sass": "^4.14.1",
     "swiper": "^6.4.5",
     "sync": "^0.2.5",
-    "webp-converter": "^2.2.3"
+    "webp-converter": "^2.2.3",
+    "del": "^5.1.0"
   },
   "dependencies": {
-    "del": "^5.1.0",
-    "g": "^2.0.1"
   }
 }
